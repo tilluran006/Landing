@@ -1,0 +1,18 @@
+<svg width="500" height="500" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg" >
+	<g style="fill:#0e5299;">
+		<circle cx="245" cy="116" r="29" />
+		<path d="M248,158 Q274,155 269,180 L258,200
+				 Q215,275 277,322 C320,355 277,383 277,383
+				 Q240,405 210,377 Q192,355 207,305
+				 Q230,250 217,210 Q210,170 248,158">
+		</path>
+		<!-- <circle cx="248" cy="158" r="1"/>
+		<circle cx="269" cy="180" r="1"/>
+		<circle cx="258" cy="200" r="1"/>
+		<circle cx="277" cy="322" r="1"/>
+		<circle cx="277" cy="383" r="1"/>
+		<circle cx="210" cy="377" r="1"/>
+		<circle cx="207" cy="305" r="1"/>
+		<circle cx="217" cy="210" r="1"/> -->
+	</g>
+</svg>
